@@ -1,2 +1,1 @@
-# igumeerpur.github.io
-Some exam sources for students.
+# pubgcontests.github.io
